@@ -1,4 +1,4 @@
 # kruthika
 First  git repository.
 <br>
-author-Kruthika S
+author-Kruthika S(name)
