@@ -1,0 +1,2 @@
+# kruthika
+First  git repository 
